@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GrafikaJava:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="GrafikaJava.jar">
+      <element id="module-output" name="GrafikaJava" />
+      <element id="artifact" artifact-name="Grafika" />
+    </root>
+  </artifact>
+</component>
